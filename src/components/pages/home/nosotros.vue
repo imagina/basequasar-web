@@ -92,7 +92,6 @@
         background-color #0078f0ba
         text-align center
         color white
-        padding-bottom 40px !important
         .q-icon
           font-size 40px
           margin 35px 0

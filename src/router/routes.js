@@ -21,6 +21,9 @@ Route.view('/', master)
       Route.view('/contacto', require('../layouts/pages/contacto').default).options({
         name: 'contacto'
       })
+      Route.view('/buscar', require('../layouts/pages/buscador').default).options({
+        name: 'buscar'
+      })
     }
   )
 
